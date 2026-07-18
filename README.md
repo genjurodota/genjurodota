@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello there!
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGExNjBxZmtqZTZ2enR0Y3RwMmthZTY0ZXZqaWhheXJpY3h0aXJrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Gyz2J1b9SjD2/giphy.gif" width="250" align="right" alt="Obi-Wan Kenobi Hello There">
+I am an IT(CS) student currently completing my degree. I am passionate about data analysis, system security, and building solid applications. 
 
-<!--
-**genjurodota/genjurodota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Here are some ideas to get you started:
+### Infrastructure & Self-Hosting
+Beyond writing software, I like to manage my own home server. I have hands-on experience with Linux, configuring containers, and setting up local network routing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### After Hours
+When I am not in front of the terminal, I value a good work-life balance. I stay active by running, but I am also a big fan of team sports like football and basketball. I love cinema and pop culture (as my greeting might suggest!). To relax, I enjoy playing video games. These days, my primary platforms are the Steam Deck and Nintendo Switch 2.
