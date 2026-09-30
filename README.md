@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>Hello there!</h1>
-      <p>I am an IT(CS) student currently completing my degree. I am passionate about data analysis, system security, and building solid applications.</p>
+      <p>I am a Computer Science Engineer passionate about data analysis, system security, and building solid applications.</p>
     </td>
     <td align="center" width="250">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGExNjBxZmtqZTZ2enR0Y3RwMmthZTY0ZXZqaWhheXJpY3h0aXJrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Gyz2J1b9SjD2/giphy.gif" width="220" alt="Obi-Wan Kenobi Hello There">
